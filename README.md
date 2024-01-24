@@ -7,6 +7,6 @@
 
 ### Biography
 
-- Positive ([biography](biography/positive.html))
-- Negative ([biography](biography/negative.html))
-- Mixed ([biography](biography/mixed.html))
+- [Positive](biography/positive.html)
+- [Negative](biography/negative.html)
+- [Mixed](biography/mixed.html)
