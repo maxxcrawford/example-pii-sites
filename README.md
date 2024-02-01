@@ -5,15 +5,16 @@
 
 ### Home Address
 
-- [Home Address + PII](home-address/full-name.html)
+- [Home Address + Full Name](home-address/full-name.html)
 - [Home Address + Last Name](home-address/last-name.html)
-- [Home Address](home-address/no-name.html)
+- [Home Address Only](home-address/no-name.html)
 
 
 ### Email Address
 
-- [Email Address + PII](email-address/email-address.html)
-- [Email Address](email-address/email-address-only.html)
+- [Email Address + Full Name](email-address/email-address.html)
+- [Email Address + Last Name](email-address/email-address-only.html)
+- [Email Address Only](email-address/email-address-only.html)
 
 
 ### Biography
