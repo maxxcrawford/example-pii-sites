@@ -1,9 +1,20 @@
 ## List of Types
 
+### No Match
+- [No Match/Language](no-match/no-match.html)
+
 ### Home Address
 
-- [Home Address](home-address)
-- [NOT Home Address](home-address/no-address.html)
+- [Home Address + PII](home-address/full-name.html)
+- [Home Address + Last Name](home-address/last-name.html)
+- [Home Address](home-address/no-name.html)
+
+
+### Email Address
+
+- [Email Address + PII](email-address/email-address.html)
+- [Email Address](email-address/email-address-only.html)
+
 
 ### Biography
 
