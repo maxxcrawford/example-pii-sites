@@ -1,3 +1,11 @@
+## Sample PII: 
+
+- First name: Moe
+- Last name: Zilla
+- Address: 2 Harrison St #700, San Francisco, CA
+- Phone: 650.903.0800
+- Email: email@example.com
+
 ## List of Types
 
 ### No Match
@@ -9,6 +17,11 @@
 - [Home Address + Last Name](home-address/last-name.html)
 - [Home Address Only](home-address/no-name.html)
 
+### Phone Number
+
+- [Phone Number + Full Name](phone-number/full-name.html)
+- [Phone Number + Last Name](phone-number/last-name.html)
+- [Phone Number Only](phone-number/no-name.html)
 
 ### Email Address
 
