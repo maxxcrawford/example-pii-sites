@@ -19,6 +19,8 @@
 
 ### Phone Number
 
+- [Phone Number (Geo `+1` Country Calling Codes) + Full Name](phone-number/full-name.html)
+  - List of all [country codes](https://en.wikipedia.org/wiki/List_of_country_calling_codes)
 - [Phone Number + Full Name](phone-number/full-name.html)
 - [Phone Number + Last Name](phone-number/last-name.html)
 - [Phone Number Only](phone-number/no-name.html)
